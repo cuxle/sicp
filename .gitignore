@@ -1,0 +1,11 @@
+# Racket / 编辑器
+*.zo
+compiled/
+.DS_Store
+Thumbs.db
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*~
