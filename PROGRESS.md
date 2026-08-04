@@ -40,3 +40,12 @@
 
 - 2026-07：初始化仓库；完成 1.1 到 1.2.6 的课堂材料与学习记录
 
+
+## 当前清晰进度
+
+- 已完成：第 1 章主线学习到 1.3 高阶过程
+- 已整理笔记：
+  - `ch01/notes-1.2.3-1.2.6.md`
+  - `ch01/notes-1.3.md`
+- 1.3 已覆盖：`sum`、`product`、`accumulate`、`lambda`、`let`、过程作为返回值、`compose`、`repeated`、`fixed-point`、`average-damp`、牛顿法、`iterative-improve`
+- 下一步建议：做 1.3 重点练习，或进入第 2 章数据抽象
