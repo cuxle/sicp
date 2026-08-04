@@ -49,3 +49,10 @@
   - `ch01/notes-1.3.md`
 - 1.3 已覆盖：`sum`、`product`、`accumulate`、`lambda`、`let`、过程作为返回值、`compose`、`repeated`、`fixed-point`、`average-damp`、牛顿法、`iterative-improve`
 - 下一步建议：做 1.3 重点练习，或进入第 2 章数据抽象
+
+## 2026-08-04 学习进度
+
+- 已开始第 2 章：构造数据抽象
+- 已覆盖：有理数抽象、抽象屏障、`cons`/`car`/`cdr`、用过程表示 pair、区间算术、依赖问题、list、`append`、`map`
+- 新增笔记：`ch02/notes-2.1-2.2-start.md`
+- 下一步：继续 2.2，学习树形数据、`filter`、`accumulate` 等序列操作
