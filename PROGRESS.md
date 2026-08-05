@@ -56,3 +56,10 @@
 - 已覆盖：有理数抽象、抽象屏障、`cons`/`car`/`cdr`、用过程表示 pair、区间算术、依赖问题、list、`append`、`map`
 - 新增笔记：`ch02/notes-2.1-2.2-start.md`
 - 下一步：继续 2.2，学习树形数据、`filter`、`accumulate` 等序列操作
+
+## 2026-08-05 学习进度
+
+- 继续第 2 章 2.2：层次性数据和序列
+- 已覆盖：树、叶子计数、`scale-tree`、`filter`、`accumulate`、序列流水线、`enumerate-tree`、`flatmap`、素数和数对、排列 `permutations`
+- 新增笔记：`ch02/notes-2.2-sequences.md`
+- 下一步：继续 2.2 的嵌套映射/图形语言，或短复习后进入 2.3 符号数据
