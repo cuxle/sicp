@@ -69,3 +69,10 @@
 - 已补充 2.2 图形语言：painter、闭包性质、`beside`/`below`、`split`、`square-of-four`
 - 新增笔记：`ch02/notes-2.2-picture-language.md`
 - 下一步：进入 2.3 符号数据
+
+## 2026-08-05 2.3 学习进度
+
+- 已开始 2.3 符号数据
+- 已覆盖：quote、符号与字符串、符号表达式、符号求导、集合表示、无序/有序列表集合、二叉搜索树、中序遍历
+- 新增笔记：`ch02/notes-2.3-symbolic-data.md`
+- 下一步：继续 2.3 的 Huffman 编码树
