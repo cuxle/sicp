@@ -63,3 +63,9 @@
 - 已覆盖：树、叶子计数、`scale-tree`、`filter`、`accumulate`、序列流水线、`enumerate-tree`、`flatmap`、素数和数对、排列 `permutations`
 - 新增笔记：`ch02/notes-2.2-sequences.md`
 - 下一步：继续 2.2 的嵌套映射/图形语言，或短复习后进入 2.3 符号数据
+
+## 2026-08-05 进度补充
+
+- 已补充 2.2 图形语言：painter、闭包性质、`beside`/`below`、`split`、`square-of-four`
+- 新增笔记：`ch02/notes-2.2-picture-language.md`
+- 下一步：进入 2.3 符号数据
