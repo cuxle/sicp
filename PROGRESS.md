@@ -114,3 +114,9 @@
 - 已覆盖：环境模型基础、闭包环境、内部定义、计数器、可变 pair、共享可变结构、队列、表格
 - 新增笔记：`ch03/notes-3.2-3.3-environments-mutable-data.md`
 - 下一步：继续 3.3 的二维表格和更多可变结构
+
+## 2026-08-07 3.3 学习进度
+
+- 已覆盖：二维表格、`put`/`get` 的表格实现、约束传播、connector、constraint、数字电路模拟、wire、gate、agenda
+- 新增笔记：`ch03/notes-3.3-tables-constraints-simulation.md`
+- 下一步：进入 3.4 并发与共享状态
