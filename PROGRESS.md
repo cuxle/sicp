@@ -120,3 +120,10 @@
 - 已覆盖：二维表格、`put`/`get` 的表格实现、约束传播、connector、constraint、数字电路模拟、wire、gate、agenda
 - 新增笔记：`ch03/notes-3.3-tables-constraints-simulation.md`
 - 下一步：进入 3.4 并发与共享状态
+
+## 2026-08-07 3.4 学习进度
+
+- 已完成 3.4 并发与共享状态主线
+- 已覆盖：丢失更新、临界区、serializer、mutex、`test-and-set!`、原子操作、忙等、共享锁、转账、死锁、固定加锁顺序
+- 新增笔记：`ch03/notes-3.4-concurrency.md`
+- 下一步：进入 3.5 流 streams
