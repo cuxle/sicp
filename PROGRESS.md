@@ -134,3 +134,12 @@
 - 已覆盖：元循环求值器、`eval`/`apply`、特殊形式、`quote`、`if`、`lambda`、过程对象、环境表示、变量查找与 `set!`、派生表达式、REPL。
 - 新增笔记：`ch04/notes-4.1-metacircular-evaluator.md`。
 - 下一步：继续第 4 章，进入 4.2 惰性求值。
+
+## 2026-08-11 第 4 章完成
+
+- 已完成第 4 章主线学习：元语言抽象。
+- 已覆盖 4.2 惰性求值：thunk、force-it、actual-value、memoization、无限序列、副作用问题。
+- 已覆盖 4.3 非确定性计算：amb、require、回溯、try-again、成功延续与失败延续。
+- 已覆盖 4.4 逻辑程序设计：事实、规则、查询、模式匹配、合一、递归规则。
+- 新增笔记：`ch04/notes-4.2-4.4-lazy-amb-query.md`。
+- 下一步：进入第 5 章，学习寄存器机器里的计算。
