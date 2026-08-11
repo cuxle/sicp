@@ -127,3 +127,10 @@
 - 已覆盖：丢失更新、临界区、serializer、mutex、`test-and-set!`、原子操作、忙等、共享锁、转账、死锁、固定加锁顺序
 - 新增笔记：`ch03/notes-3.4-concurrency.md`
 - 下一步：进入 3.5 流 streams
+
+## 2026-08-11 4.1 学习进度
+
+- 已开始第 4 章：元语言抽象。
+- 已覆盖：元循环求值器、`eval`/`apply`、特殊形式、`quote`、`if`、`lambda`、过程对象、环境表示、变量查找与 `set!`、派生表达式、REPL。
+- 新增笔记：`ch04/notes-4.1-metacircular-evaluator.md`。
+- 下一步：继续第 4 章，进入 4.2 惰性求值。
